@@ -1,8 +1,7 @@
 NLU
 ===
-
+<pre>
 A chance to engineer a set of tools, resources and methods for NLU.
-
 outline
   generate background resources and develop qualia ( i.e. pustejovsky )
     gutenberg, nltk, scrapes, wikipedia
@@ -10,7 +9,7 @@ outline
     index, db, prefix trees
   pos-tagging
     building models with existing open source tools
-      hunpos, stanford, others
+    hunpos, stanford, others
   chunking and shallow parsing
     index grammars
   event detection and ordering
@@ -24,4 +23,4 @@ outline
     register
     deception
     uniqueness
-    
+</pre>
