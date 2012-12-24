@@ -5,6 +5,9 @@ A chance to engineer a set of tools, resources and methods for NLU.
 outline
   generate background resources and develop qualia ( i.e. pustejovsky )
     gutenberg, nltk, scrapes, wikipedia
+    Actual resources:
+      en-wiktionary
+      wordnet sql instance
   storage
     index, db, prefix trees
   pos-tagging
